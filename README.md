@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jalyn Mills, a public health professional with eagerness to transition into the tech industry.
-- 👀 I’m interested in project managament, relational databases, and data systems and management.
+- 👀 I’m interested in data analytics, product managament, and data systems and management.
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on projects requiring SQL competencies 
 - 📫 How to reach me - jkm258@cornell.edu or https://www.linkedin.com/in/jalynmills/
